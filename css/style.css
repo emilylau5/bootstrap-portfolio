@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("../images/whirlpool.png");
+}
+.icon img {
+  height: 60px;
+}
+#mypic {
+  max-height: 200px;
+  float: left;
+  margin: 10px 20px 10px 0;
+}
+.about {
+  background-color: white;
+  border: 1px solid #ddd;
+}
+.headname {
+  background-color: #4aaaa5;
+  font-family: 'Georgia', Times, 'Times New Roman', serif;
+
+}
+.p1 {
+  float: right;
+}
+.navbar-default .navbar-brand {
+    color: #F0F3F4;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 30px;
+    text-align: center;
+    width: auto;
+  }
+.navbar-nav {
+  margin-right: 20px;
+}
+.col-md-8
+h1 {
+  color: #4aaaa5;
+  border-bottom: 2px solid #ddd;
+
+}
+.panel-default>.panel-heading {
+    color: #4aaaa5;
+    background-color: #f5f5f5;
+    border-color: #ddd;
+}
+.footer {
+    bottom: 0;
+    background-color: #666;
+    border-top: 5px solid #4aaaa5;
+    color: #ddd;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 30px; 
+}
